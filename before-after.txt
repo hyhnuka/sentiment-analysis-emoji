@@ -1,0 +1,56 @@
+## LR 1e-5
+Memulai Training & Validasi Baseline 3 (Proposed Method)...
+---------------------------------------------------------------------------
+Epoch [1/3] | Selesai dalam 12.70 detik
+  [TRAIN] Loss: 0.0072 | Acc: 0.9957 | Prec: 0.9957 | Rec: 0.9957 | F1: 0.9957
+  [VALID] Loss: 1.2542 | Acc: 0.7126 | Prec: 0.7118 | Rec: 0.7126 | F1: 0.7119
+---------------------------------------------------------------------------
+Epoch [2/3] | Selesai dalam 11.34 detik
+  [TRAIN] Loss: 0.0046 | Acc: 0.9986 | Prec: 0.9986 | Rec: 0.9986 | F1: 0.9986
+  [VALID] Loss: 1.2028 | Acc: 0.7356 | Prec: 0.7411 | Rec: 0.7356 | F1: 0.7373
+---------------------------------------------------------------------------
+Epoch [3/3] | Selesai dalam 11.30 detik
+  [TRAIN] Loss: 0.0048 | Acc: 0.9971 | Prec: 0.9971 | Rec: 0.9971 | F1: 0.9971
+  [VALID] Loss: 1.2427 | Acc: 0.7356 | Prec: 0.7379 | Rec: 0.7356 | F1: 0.7365
+---------------------------------------------------------------------------
+Proses Training dan Validasi Selesai!
+
+Hasil perbandingan before-after tiap epoch berhasil disimpan di: 'history_validation.csv'
+
+## Ubah LR ke 2e-5
+Memulai Training & Validasi Baseline 3 (Proposed Method)...
+---------------------------------------------------------------------------
+Epoch [1/3] | Selesai dalam 11.22 detik
+  [TRAIN] Loss: 0.0749 | Acc: 0.9770 | Prec: 0.9775 | Rec: 0.9770 | F1: 0.9770
+  [VALID] Loss: 1.5529 | Acc: 0.6897 | Prec: 0.6900 | Rec: 0.6897 | F1: 0.6807
+---------------------------------------------------------------------------
+Epoch [2/3] | Selesai dalam 11.49 detik
+  [TRAIN] Loss: 0.0534 | Acc: 0.9842 | Prec: 0.9842 | Rec: 0.9842 | F1: 0.9842
+  [VALID] Loss: 1.1964 | Acc: 0.7184 | Prec: 0.7257 | Rec: 0.7184 | F1: 0.7137
+---------------------------------------------------------------------------
+Epoch [3/3] | Selesai dalam 11.55 detik
+  [TRAIN] Loss: 0.0149 | Acc: 0.9957 | Prec: 0.9957 | Rec: 0.9957 | F1: 0.9957
+  [VALID] Loss: 1.2546 | Acc: 0.7471 | Prec: 0.7561 | Rec: 0.7471 | F1: 0.7483
+---------------------------------------------------------------------------
+Proses Training dan Validasi Selesai!
+
+Hasil perbandingan before-after tiap epoch berhasil disimpan di: 'history_validation.csv'
+
+##  Update Setup parameter
+Memulai Training & Validasi Baseline 3 (Proposed Method)...
+---------------------------------------------------------------------------
+Epoch [1/3] | Selesai dalam 3.27 detik
+  [TRAIN] Loss: 0.0399 | Acc: 0.9856 | Prec: 0.9858 | Rec: 0.9856 | F1: 0.9856
+  [VALID] Loss: 1.4472 | Acc: 0.7299 | Prec: 0.7304 | Rec: 0.7299 | F1: 0.7301
+---------------------------------------------------------------------------
+Epoch [2/3] | Selesai dalam 2.92 detik
+  [TRAIN] Loss: 0.0113 | Acc: 0.9943 | Prec: 0.9943 | Rec: 0.9943 | F1: 0.9943
+  [VALID] Loss: 1.4855 | Acc: 0.7356 | Prec: 0.7356 | Rec: 0.7356 | F1: 0.7356
+---------------------------------------------------------------------------
+Epoch [3/3] | Selesai dalam 3.04 detik
+  [TRAIN] Loss: 0.0067 | Acc: 0.9986 | Prec: 0.9986 | Rec: 0.9986 | F1: 0.9986
+  [VALID] Loss: 1.5930 | Acc: 0.7414 | Prec: 0.7405 | Rec: 0.7414 | F1: 0.7409
+---------------------------------------------------------------------------
+Proses Training dan Validasi Selesai!
+
+Hasil perbandingan before-after tiap epoch berhasil disimpan di: 'history_validation.

@@ -1,0 +1,166 @@
+﻿ID,Emoji,Sentiment,Makna Emoji,Special Tag,Makna_ID,Special_Tag_ID
+1,😛,negative,Face With Stuck-Out Tongue, <FACE WITH STUCK-OUT TOUNGES>,Wajah Menjulurkan Lidah,<Wajah Menjulurkan Lidah>
+2,😠,negative,Angry Face,<Angry Face>,Wajah Marah,<Wajah Marah>
+3,💣,negative,Bomb,<Bomb>,Bom,<Bom>
+4,💔,negative,Broken Heart,<Broken Heart>,Hati Patah,<Hati Patah>
+5,😕,negative,Confused Face,<Confused Face>,Wajah Bingung,<Wajah Bingung>
+6,😞,negative,Disappointed Face,<Disappointed Face>,Wajah Kecewa,<Wajah Kecewa>
+7,😑,negative,Expressionless Face,<Expressionless Face>,Wajah Tanpa Ekspresi,<Wajah Tanpa Ekspresi>
+8,😋,negative,Face Savouring Delicious Food,<Face Savouring Delicious Food>,Wajah Menikmati Makanan Lezat,<Wajah Menikmati Makanan Lezat>
+9,😱,negative,Face Screaming in Fear,<Face Screaming in Fear>,Wajah Berteriak Ketakutan,<Wajah Berteriak Ketakutan>
+10,😓,negative,Face With Cold Sweat,<Face With Cold Sweat>,Wajah Dengan Keringat Dingin,<Wajah Dengan Keringat Dingin>
+11,😮,negative,Face With Open Mouth,<Face With Open Mouth>,Wajah Terperangah Terbuka,<Wajah Terperangah Terbuka>
+12,😤,negative,Face With Steam From Nose,<Face With Steam From Nose>,Wajah Mengeluarkan Uap Dari Hidung,<Wajah Mengeluarkan Uap Dari Hidung>
+13,😝,negative,Face With Stuck-Out Tongue & Closed Eyes,<Face With Stuck-Out Tongue & Closed Eyes>,Wajah Menjulurkan Lidah Dan Mata Tertutup,<Wajah Menjulurkan Lidah Dan Mata Tertutup>
+14,😶,negative,Face Without Mouth,<Face Without Mouth>,Wajah Tanpa Mulut,<Wajah Tanpa Mulut>
+15,🔥,negative,Fire,<Fire>,Api,<Api>
+16,☹,negative,Frowning Face,<Frowning Face>,Wajah Merengut,<Wajah Merengut>
+17,😬,negative,Grimacing Face,<Grimacing Face>,Wajah Meringis,<Wajah Meringis>
+18,⚡,negative,High Voltage,<High Voltage>,Tegangan Tinggi,<Tegangan Tinggi>
+19,🤥,negative,Lying Face,<Lying Face>,Wajah Berbohong,<Wajah Berbohong>
+20,😣,negative,Persevering Face,<Persevering Face>,Wajah Bertahan Menderita,<Wajah Bertahan Menderita>
+21,🙇,negative,Person Bowing,<Person Bowing>,Orang Membungkuk,<Orang Membungkuk>
+22,🏃,negative,Person Running,<Person Running>,Orang Berlari,<Orang Berlari>
+23,🐽,negative,Pig Nose,<Pig Nose>,Hidung Babi,<Hidung Babi>
+24,😡,negative,Pouting Face,<Pouting Face>,Wajah Bersungut Marah,<Wajah Bersungut Marah>
+25,🙈,negative,See-No-Evil Monkey,<See-No-Evil Monkey>,Monyet Menutup Mata,<Monyet Menutup Mata>
+26,🙁,negative,Slightly Frowning Face,<Slightly Frowning Face>,Wajah Agak Merengut,<Wajah Agak Merengut>
+27,🙊,negative,Speak-No-Evil Monkey,<Speak-No-Evil>,Monyet Menutup Mulut,<Monyet Menutup Mulut>
+28,🤔,negative,Thinking Face,<Thinking Face>,Wajah Berpikir,<Wajah Berpikir>
+29,👎,negative,Thumbs Down,<Thumbs Down>,Jempol Ke Bawah,<Jempol Ke Bawah>
+30,👅,negative,Tongue,<Tongue>,Lidah,<Lidah>
+31,😩,negative,Weary Face,<Weary Face>,Wajah Lelah Lesu,<Wajah Lelah Lesu>
+32,🤐,negative,Zipper-Mouth Face,<Zipper-Mouth Face>,Wajah Mulut Resleting,<Wajah Mulut Resleting>
+33,😐,negative,Neutral Face,<Neutral Face>,Wajah Netral,<Wajah Netral>
+34,🙄,negative,Face With Rolling Eyes,<Face With Rolling Eyes>,Wajah Memutar Mata,<Wajah Memutar Mata>
+35,😏,negative,Smirking Face,<Smirking Face>,Wajah Tersenyum Sinis,<Wajah Tersenyum Sinis>
+36,😥,negative,Disappointed but Relieved Face,<Disappointed but Relieved Face>,Wajah Kecewa Tapi Lega,<Wajah Kecewa Tapi Lega>
+37,😯,negative,Hushed Face,<Hushed Face>,Wajah Terbungkam,<Wajah Terbungkam>
+38,😪,negative,Sleepy Face,<Sleepy Face>,Wajah Mengantuk,<Wajah Mengantuk>
+39,😫,negative,Tired Face,<Tired Face>,Wajah Sangat Lelah,<Wajah Sangat Lelah>
+40,😴,negative,Sleeping Face,<Sleeping Face>,Wajah Tidur,<Wajah Tidur>
+41,😌,negative,Relieved Face,<Relieved Face>,Wajah Lega,<Wajah Lega>
+42,😜,negative,Face With Stuck-Out Tongue & Winking EyeNegatif,<Face With Stuck-Out Tongue & Winking EyeNegatif>,Wajah Menjulurkan Lidah Dan Mengedipkan Mata,<Wajah Menjulurkan Lidah Dan Mengedipkan Mata>
+43,🤤,negative,Drooling Face,<Drooling Face>,Wajah Mengiler,<Wajah Mengiler>
+44,😒,negative,Unamused Face,<Unamused Face>,Wajah Tidak Terhibur,<Wajah Tidak Terhibur>
+45,😔,negative,Pensive Face,<Pensive Face>,Wajah Termenung Sedih,<Wajah Termenung Sedih>
+46,🙃,negative,Upside-Down Face,<Upside-Down Face>,Wajah Terbalik,<Wajah Terbalik>
+47,🤑,negative,Money-Mouth Face,<Money-Mouth Face>,Wajah Mata Duitan,<Wajah Mata Duitan>
+48,😲,negative,Astonished Face,<Astonished Face>,Wajah Terperanjat,<Wajah Terperanjat>
+49,😖,negative,Confounded Face,<Confounded Face>,Wajah Jengkel Bingung,<Wajah Jengkel Bingung>
+50,😟,negative,Worried Face,<Worried Face>,Wajah Cemas,<Wajah Cemas>
+51,😢,negative,Crying Face,<Crying Face>,Wajah Menangis,<Wajah Menangis>
+52,😭,negative,Loudly Crying Face,<Loudly Crying Face>,Wajah Menangis Kencang,<Wajah Menangis Kencang>
+53,😦,negative,Frowning Face With Open Mouth,<Frowning Face With Open Mouth>,Wajah Merengut Dengan Mulut Terbuka,<Wajah Merengut Dengan Mulut Terbuka>
+54,😧,negative,Anguished Face,<Anguished Face>,Wajah Menderita,<Wajah Menderita>
+55,😨,negative,Fearful Face,<Fearful Face>,Wajah Takut,<Wajah Takut>
+56,😰,negative,Face With Open Mouth & Cold Sweat,<Face With Open Mouth & Cold Sweat>,Wajah Mulut Terbuka Dan Keringat Dingin,<Wajah Mulut Terbuka Dan Keringat Dingin>
+57,😳,negative,Flushed Face,<Flushed Face>,Wajah Memerah Tersipu,<Wajah Memerah Tersipu>
+58,😵,negative,Dizzy Face,<Dizzy Face>,Wajah Pusing,<Wajah Pusing>
+59,😷,negative,Face With Medical Mask,<Face With Medical Mask>,Wajah Masker Medis,<Wajah Masker Medis>
+60,🤒,negative,Face With Thermometer,<Face With Thermometer>,Wajah Dengan Termometer,<Wajah Dengan Termometer>
+61,🤕,negative,Face With Head-Bandage,<Face With Head-Bandage>,Wajah Dengan Perban Di Kepala,<Wajah Dengan Perban Di Kepala>
+62,🤢,negative,Nauseated Face,<Nauseated Face>,Wajah Mual,<Wajah Mual>
+63,🤧,negative,Sneezing Face,<Sneezing Face>,Wajah Bersin,<Wajah Bersin>
+64,🤓,negative,Nerd Face,<Nerd Face>,Wajah Kutu Buku,<Wajah Kutu Buku>
+65,😈,negative,Smiling Face With Horns,<Smiling Face With Horns>,Wajah Tersenyum Berandalan,<Wajah Tersenyum Berandalan>
+66,👿,negative,Angry Face With Horns,<Angry Face With Horns>,Wajah Marah Bertanduk,<Wajah Marah Bertanduk>
+67,👹,negative,Ogre,<Ogre>,Raksasa,<Raksasa>
+68,👺,negative,Goblin,<Goblin>,Jin,<Jin>
+69,💀,negative,Skull,<Skull>,Tengkorak,<Tengkorak>
+70,☠,negative,Skull and Crossbones,<Skull and Crossbones>,Tengkorak Dan Tulang Silang,<Tengkorak Dan Tulang Silang>
+71,👻,negative,Ghost,<Ghost>,Hantu,<Hantu>
+72,💩,negative,Pile of Poo,<Pile of Poo>,Kotoran,<Kotoran>
+73,🙀,negative,Weary Cat Face,<Weary Cat Face>,Wajah Kucing Letih,<Wajah Kucing Letih>
+74,😿,negative,Crying Cat Face,<Crying Cat Face>,Wajah Kucing Menangis,<Wajah Kucing Menangis>
+75,😾,negative,Pouting Cat Face,<Pouting Cat Face>,Wajah Kucing Bersungut,<Wajah Kucing Bersungut>
+76,🙉,negative,Hear-No-Evil Monkey,<Hear-No-Evil Monkey>,Monyet Menutup Telinga,<Monyet Menutup Telinga>
+77,🙎,negative,Person Pouting,<Person Pouting>,Orang Bersungut,<Orang Bersungut>
+78,🙅,negative,Person Gesturing No,<Person Gesturing No>,Orang Isyarat Tidak,<Orang Isyarat Tidak>
+79,💁,negative,Person Tipping Hand,<Person Tipping Hand>,Orang Menengadahkan Tangan,<Orang Menengadahkan Tangan>
+80,🤦,negative,Person Facepalming,<Person Facepalming>,Orang Tepok Jidat,<Orang Tepok Jidat>
+81,🤷,negative,Person Shrugging,<Person Shrugging>,Orang Mengangkat Bahu,<Orang Mengangkat Bahu>
+82,🤞,negative,Crossed Fingers,<Crossed Fingers>,Jari Menyilang,<Jari Menyilang>
+83,📉,negative,Chart Decreasing,<Chart Decreasing>,Grafik Menurun,<Grafik Menurun>
+84,⛔,negative,No Entry,<No Entry>,Dilarang Masuk,<Dilarang Masuk>
+85,✖,negative,Heavy Multiplication X,<Heavy Multiplication X>,Tanda Silang Perkalian,<Tanda Silang Perkalian>
+86,❌,negative,Cross Mark,<Cross Mark>,Tanda Silang,<Tanda Silang>
+87,❎,negative,Cross Mark Button,<Cross Mark Button>,Tombol Tanda Silang,<Tombol Tanda Silang>
+88,👌,positive,OK Hand, <OK HAND>,Tangan Isyarat Ok,<Tangan Isyarat Ok>
+89,👊,positive,Oncoming Fist, <Oncoming Fist>,Tinjuan Ke Depan,<Tinjuan Ke Depan>
+90,🤘,positive,Sign of the Horns, <SIGN OF THE HORNS>,Isyarat Metal,<Isyarat Metal>
+91,😍,positive,Smiling Face With Heart-Eyes, <SMILING FACE WITH HEART-EYES>,Wajah Tersenyum Dengan Mata Hati,<Wajah Tersenyum Dengan Mata Hati>
+92,😊,positive,Smiling Face With Smiling Eyes, <Smiling Face With Smiling Eyes>,Wajah Tersenyum Dengan Mata Tersenyum,<Wajah Tersenyum Dengan Mata Tersenyum>
+93,👍,positive,Thumbs Up, <THUMBS UP>,Jempol Ke Atas,<Jempol Ke Atas>
+94,😹,positive,Cat Face With Tears of Joy,<Cat Face With Tears of Joy>,Wajah Kucing Menangis Bahagia,<Wajah Kucing Menangis Bahagia>
+95,👏,positive,Clapping Hands,<Clapping Hands>,Tepuk Tangan,<Tepuk Tangan>
+96,😘,positive,Face Blowing a Kiss,<Face Blowing a Kiss>,Wajah Meniup Ciuman,<Wajah Meniup Ciuman>
+97,😂,positive,face with tears of joy,<FACE WITH TEARS OF JOY>,Wajah Menangis Gembira,<Wajah Menangis Gembira>
+98,🙏,positive,Folded Hands,<FOLDED HANDS>,Tangan Merapat Berdoa,<Tangan Merapat Berdoa>
+99,✊,positive,Glory,<Glory>,Kepalan Tangan Kejayaan,<Kepalan Tangan Kejayaan>
+100,🌟,positive,Glowing Star,<Glowing Star>,Bintang Bersinar,<Bintang Bersinar>
+101,😁,positive,grining face with smile eye,<grining face with smile eye>,Wajah Menyeringai Dengan Mata Tersenyum,<Wajah Menyeringai Dengan Mata Tersenyum>
+102,😀,positive,grining face,<grining face>,Wajah Menyeringai,<Wajah Menyeringai>
+103,💘,positive,Heart With Arrow,<Heart With Arrow>,Hati Dengan Panah,<Hati Dengan Panah>
+104,✔,positive,Heavy Check Mark,<Heavy Check Mark>,Tanda Centang Tebal,<Tanda Centang Tebal>
+105,🤗,positive,Hugging Face,<HUGGING FACE>,Wajah Memeluk,<Wajah Memeluk>
+106,😚,positive,Kissing Face With Closed Eyes,<Kissing Face With Closed Eyes>,Wajah Mencium Dengan Mata Tertutup,<Wajah Mencium Dengan Mata Tertutup>
+107,❤,positive,lovered,<lovered>,Hati Merah,<Hati Merah>
+108,🙋,positive,Person Raising Hand,<Person Raising Hand>,Orang Mengangkat Tangan,<Orang Mengangkat Tangan>
+109,🙌,positive,Raising Hands,<Raising Hands>,Mengangkat Kedua Tangan,<Mengangkat Kedua Tangan>
+110,🤣,positive,Rolling on the Floor Laughing,<Rolling on the Floor Laughing>,Tertawa Terpingkal-Pingkal,<Tertawa Terpingkal-Pingkal>
+111,😆,positive,Smiling Face With Open Mouth & Closed Eyes,<Smiling Face With Open Mouth & Closed Eyes>,Wajah Tersenyum Mulut Terbuka Dan Mata Tertutup,<Wajah Tersenyum Mulut Terbuka Dan Mata Tertutup>
+112,😅,positive,Smiling Face With Open Mouth & Cold Sweat,<Smiling Face With Open Mouth & Cold Sweat>,Wajah Tersenyum Mulut Terbuka Dan Keringat Dingin,<Wajah Tersenyum Mulut Terbuka Dan Keringat Dingin>
+113,😄,positive,Smiling Face With Open Mouth & Smiling Eyes,<Smiling Face With Open Mouth & Smiling Eyes>,Wajah Tersenyum Mulut Terbuka Dan Mata Tersenyum,<Wajah Tersenyum Mulut Terbuka Dan Mata Tersenyum>
+114,😎,positive,Smiling Face With Sunglasses,<Smiling Face With Sunglasses>,Wajah Tersenyum Dengan Kacamata Hitam,<Wajah Tersenyum Dengan Kacamata Hitam>
+115,🏆,positive,Trophy,<Trophy>,Piala,<Piala>
+116,✌,positive,Victory Hand,<Victory Hand>,Tangan Tanda Damai Berjaya,<Tangan Tanda Damai Berjaya>
+117,😃,positive,Smiling Face With Open Mouth,<Smiling Face With Open Mouth>,Wajah Tersenyum Dengan Mulut Terbuka,<Wajah Tersenyum Dengan Mulut Terbuka>
+118,😉,positive,Wingking Face,<Wingking Face>,Wajah Mengedipkan Mata,<Wajah Mengedipkan Mata>
+119,😗,positive,Kissing Face,<Kissing Face>,Wajah Mencium,<Wajah Mencium>
+120,😙,positive,Kissing Face With Smiling Eyes,<Kissing Face With Smiling Eyes>,Wajah Mencium Dengan Mata Tersenyum,<Wajah Mencium Dengan Mata Tersenyum>
+121,☺,positive,Smiling Face,<Smiling Face>,Wajah Tersenyum Simpel,<Wajah Tersenyum Simpel>
+122,🙂,positive,Slightly Smiling Face,<Slightly Smiling Face>,Wajah Agak Tersenyum,<Wajah Agak Tersenyum>
+123,😇,positive,Smiling Face With Halo,<Smiling Face With Halo>,Wajah Tersenyum Malaikat,<Wajah Tersenyum Malaikat>
+124,🤠,positive,Cowboy Hat Face,<Cowboy Hat Face>,Wajah Topi Koboi,<Wajah Topi Koboi>
+125,🤡,positive,Clown Face,<Clown Face>,Wajah Badut,<Wajah Badut>
+126,😺,positive,Smiling Cat Face With Open Mouth,<Smiling Cat Face With Open Mouth>,Wajah Kucing Tersenyum Mulut Terbuka,<Wajah Kucing Tersenyum Mulut Terbuka>
+127,😸,positive,Grinning Cat Face With Smiling Eyes,<Grinning Cat Face With Smiling Eyes>,Wajah Kucing Menyeringai Mata Tersenyum,<Wajah Kucing Menyeringai Mata Tersenyum>
+128,😻,positive,Smiling Cat Face With Heart-Eyes,<Smiling Cat Face With Heart-Eyes>,Wajah Kucing Tersenyum Mata Hati,<Wajah Kucing Tersenyum Mata Hati>
+129,😼,positive,Cat Face With Wry Smile,<Cat Face With Wry Smile>,Wajah Kucing Tersenyum Kecut,<Wajah Kucing Tersenyum Kecut>
+130,😽,positive,Kissing Cat Face With Closed Eyes,<Kissing Cat Face With Closed Eyes>,Wajah Kucing Mencium Mata Tertutup,<Wajah Kucing Mencium Mata Tertutup>
+131,👨‍🎓,positive,Man Student,<Man Student>,Mahasiswa Laki-Laki,<Mahasiswa Laki-Laki>
+132,👩‍🎓,positive,Woman Student,<Woman Student>,Mahasiswi Perempuan,<Mahasiswi Perempuan>
+133,✈,positive,Plane,<Plane>,Pesawat Terbang,<Pesawat Terbang>
+134,👼,positive,Baby Angel,<Baby Angel>,Bayi Malaikat,<Bayi Malaikat>
+135,👯🏻,positive,Woman With Bunny Ears Type-1-2,<Woman With Bunny Ears Type-1-2>,Wanita Dengan Telinga Kelinci,<Wanita Dengan Telinga Kelinci>
+136,🙆🏻,positive,Person Gesturing OK Light Skin Tone,<Person Gesturing OK Light Skin Tone>,Orang Isyarat Ok,<Orang Isyarat Ok>
+137,💆,positive,Person Getting Massage,<Person Getting Massage>,Orang Dipijat,<Orang Dipijat>
+138,🚶,positive,Person Walking,<Person Walking>,Orang Berjalan,<Orang Berjalan>
+139,💃,positive,Woman Dancing,<Woman Dancing>,Wanita Menari,<Wanita Menari>
+140,👭,positive,Two Women Holding Hands,<Two Women Holding Hands>,Dua Wanita Berpegangan Tangan,<Dua Wanita Berpegangan Tangan>
+141,💏,positive,Kiss,<Kiss>,Ciuman Romantis,<Ciuman Romantis>
+142,💑,positive,Couple With Heart,<Couple With Heart>,Pasangan Kasih Sayang,<Pasangan Kasih Sayang>
+143,💪,positive,Flexed Biceps,<Flexed Biceps>,Otot Lengan Kuat,<Otot Lengan Kuat>
+144,🖐,positive,Raised Hand With Fingers Splayed,<Raised Hand With Fingers Splayed>,Tangan Terbuka Jari Merenggang,<Tangan Terbuka Jari Merenggang>
+145,🤝,positive,Handshake,<Handshake>,Berjabat Tangan,<Berjabat Tangan>
+146,💋,positive,Kiss Mark,<Kiss Mark>,Tanda Kecupan Ciuman,<Tanda Kecupan Ciuman>
+147,💞,positive,Revolving Hearts,<Revolving Hearts>,Hati Berputar,<Hati Berputar>
+148,💝,positive,Heart With Ribbon,<Heart With Ribbon>,Hati Dengan Pita Hadiah,<Hati Dengan Pita Hadiah>
+149,💎,positive,Gem Stone,<Gem Stone>,Batu Permata Berlian,<Batu Permata Berlian>
+150,🐥,positive,Front-Facing Baby Chick,<Front-Facing Baby Chick>,Anak Ayam Menghadap Depan,<Anak Ayam Menghadap Depan>
+151,💐,positive,Bouquet,<Bouquet>,Buket Bunga,<Buket Bunga>
+152,🌹,positive,Rose,<Rose>,Bunga Mawar,<Bunga Mawar>
+153,🌛,positive,First Quarter Moon With Face,<First Quarter Moon With Face>,Bulan Sabit Awal Berwajah,<Bulan Sabit Awal Berwajah>
+154,🌜,positive,Last Quarter Moon With Face,<Last Quarter Moon With Face>,Bulan Sabit Akhir Berwajah,<Bulan Sabit Akhir Berwajah>
+155,🌝,positive,Full Moon With Face,<Full Moon With Face>,Bulan Purnama Berwajah,<Bulan Purnama Berwajah>
+156,🌞,positive,Sun With Face,<Sun With Face>,Matahari Berwajah,<Matahari Berwajah>
+157,⭐,positive,White Medium Star,<White Medium Star>,Bintang Putih Sedang,<Bintang Putih Sedang>
+158,🌈,positive,Rainbow,<Rainbow>,Pelangi,<Pelangi>
+159,🎀,positive,Ribbon,<Ribbon>,Pita,<Pita>
+160,🎁,positive,Wrapped Gift,<Wrapped Gift>,Kado Hadiah,<Kado Hadiah>
+161,💡,positive,Light Bulb,<Light Bulb>,Bohlam Lampu Ide,<Bohlam Lampu Ide>
+162,📈,positive,Chart Increasing,<Chart Increasing>,Grafik Meningkat,<Grafik Meningkat>
+163,💯,positive,Hundred Points,<Hundred Points>,Nilai Seratus Sempurna,<Nilai Seratus Sempurna>
+164,🆗,positive,OK Button,<OK Button>,Tombol Ok,<Tombol Ok>
+165,👨🏽‍❤️‍💋‍👩🏼,positive,Kiss - Man Medium Skin Tone Woman MediumLight Skin Tone,<Kiss - Man Medium Skin Tone Woman MediumLight Skin Tone>,Ciuman Pria Dan Wanita,<Ciuman Pria Dan Wanita>
