@@ -1,0 +1,10 @@
+transformers
+pandas
+scikit-learn
+jupyter
+ipykernel
+torch
+torchvision
+torchaudio
+google-api-python-client
+yt-dlp
